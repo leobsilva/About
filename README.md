@@ -10,7 +10,7 @@
 * Docker<code><img height="25" src="https://github.com/leobsilva/leobsilva/blob/master/logos/docker.jpg" alt="docker"></code>
 * GitHub<code><img height="25" src="https://github.com/leobsilva/leobsilva/blob/master/logos/github.png" alt="github"></code>
 * Bitbucket<code><img height="25" src="https://github.com/leobsilva/leobsilva/blob/master/logos/bitbucket.jpg" alt="bitbucket"></code>
-* VSCode<code><img height="25" src="https://github.com/leobsilva/leobsilva/blob/master/logos/js.png" alt="Js"></code>
+* VSCode<code><img height="25" src="https://github.com/leobsilva/leobsilva/blob/master/logos/Vscode.png" alt="vscode"></code>
 * Pyhton<code><img height="25" src="https://github.com/leobsilva/leobsilva/blob/master/logos/pyhton.jpg" alt="python"></code>
 
 -------------------------------------------
