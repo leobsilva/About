@@ -1,5 +1,4 @@
 # :raised_hand:Hello everyone, i'm Leonardo
-<img src="https://tenor.com/view/itcrowd-hello-hi-wave-gif-12483828" align="right" height="350px">
 #### This is my git and here are most of my projects from **UFFS**, my college, and some side projects too.
 
 ----------------------------------------
